@@ -1,7 +1,5 @@
-http://localhost:8080/store/oder/add?id=1,2,3
+http://localhost:8080/store/order/add?id=1
 ###
-http://localhost:8080/store/order/add?id=1,2,3,4
-
-
+http://localhost:8080/store/order/add?id=1,2,3,4,5
 ###
 http://localhost:8080/store/order/get
