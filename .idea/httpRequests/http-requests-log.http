@@ -1,0 +1,171 @@
+GET http://localhost:8080/store/order/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=DBCAE47676E15C3A9900156F1E641E09
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T092917.200.json
+
+###
+
+GET http://localhost:8080/store/oder/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Cookie: JSESSIONID=DBCAE47676E15C3A9900156F1E641E09
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T092911.404.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3,4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/store/oder/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T092842.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?id=1,2,3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T092833.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?id=1,2,3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T091813.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?id=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T091803.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?id=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T090046.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?id=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T090030.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?id=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T085804.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?id=1,2,3,4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T085758.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?product=caseforheadphone&price=100&id=4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T085356.404.json
+
+###
+
+GET http://localhost:8080/store/oder/get
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T085352.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?id=1,2,3,4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T085336.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?id=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-09T085302.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?product=telephone&price=1000&id=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-06T123119.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?product=telephone&price=1000&id=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-06T123102.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?product=telephone&price=1000&id=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-06T123100.404.json
+
+###
+
+GET http://localhost:8080/store/oder/add?product=telephone&price=1000&id=1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-06T122957.404.json
+
+###
+
